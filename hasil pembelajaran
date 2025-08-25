@@ -1,11 +1,27 @@
 Apa saja yang sudah saya pelajari:
 
 basic dari javascript(js)
-Object Oriented Programing:
-  - construction dan function
-  - inheritance
-  - overriding dan encapsulation
-  - polymorphism
+Object Oriented Programing
+Object Oriented Programming (OOP) adalah paradigma pemrograman berdasarkan konsep "objek",
+yang dapat berisi data, dalam bentuk field atau dikenal juga sebagai atribut; serta kode, dalam bentuk fungsi/prosedur atau dikenal juga sebagai method.
+Pembelajaran yang ada dalam OOP meliputi berikut ini:
+  - constructor: adalah fungsi atau metode khusus yang digunakan untuk membuat dan menginisialisasi objek baru.
+
+  - function: blok kode yang dapat digunakan kembali untuk melakukan tugas tertentu, memungkinkan Anda mengorganisir kode menjadi modul-modul yang rapi,
+              dapat digunakan berulang kali tanpa menulis ulang, dan dapat menerima masukan (parameter) serta menghasilkan keluaran (nilai). 
+
+  - inheritance: mekanisme pemrograman yang memungkinkan sebuah kelas (disebut child class atau subclass) untuk mewarisi atau mendapatkan properti dan 
+                  metode dari kelas lain (disebut parent class atau superclass). Konsep ini, yang sering disebut sebagai pewarisan prototipe dalam JavaScript, 
+                  memfasilitasi penggunaan kembali kode, memungkinkan kelas baru untuk memperluas fungsionalitas yang sudah ada tanpa harus menulis ulang kode dari awal. 
+
+  - overriding: menyesuaikan atau menyediakan implementasi baru untuk metode yang sudah ada di dalam kelas induk atau prototipe objek,
+                sehingga metode di kelas anak atau objek yang baru akan dieksekusi saat dipanggil, bukan metode aslinya.
+
+  - encapsulation:  proses membundel data (properti) dan fungsi (metode) yang beroperasi pada data tersebut ke dalam satu unit, yaitu objek.
+
+  - polymorphism: kemampuan satu antarmuka (seperti nama metode) untuk menangani berbagai bentuk objek dengan cara yang berbeda-beda. 
+                  Artinya, Anda dapat memanggil fungsi yang sama pada objek yang berbeda dan mereka akan memberikan respons yang sesuai dengan implementasi spesifiknya masing-masing, 
+                  sehingga menghasilkan kode yang lebih fleksibel dan dapat digunakan kembali.
 
   Kesimpulan:
 Belajar tentang JS sangat berguna dalam bahasa pemrograman karena mempelajari JS dapat memberikan gambaran tentang algoritma dan bagaimana suatu aplikasi bekerja.
